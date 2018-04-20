@@ -8,6 +8,7 @@ The general layout of the repository (for both groups) is as follows:
 
 * `./data` — contains raw data and cleaned (preprocessed data), as well as some other complementary data (e.g., survey responses)
 * `./materials` — contains everything used for running the experiment (EPrime scripts and data for music group, Qualtrics forms for integrity group)
-* `./notebook` — contains the files that summarize the analyses (the most important resource for writing your "Results" section)
+* `./notebook` — contains the files that summarize the analyses (the most important resource for writing your "Results" section)  
+  * *Note:* Look for the files that say "Analysis", not "Preprocessing."
 
 Email me with questions -> dab414@lehigh.edu
